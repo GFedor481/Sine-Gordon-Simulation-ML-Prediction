@@ -96,21 +96,18 @@ This is a research project, but contributions are welcome:
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
-
-[Add your license information here]
 
 ## 👥 Authors
 
-[Add author information here]
+Adrian Mittal, Fedya Grishanov, Anne Pham, Noah Lape, L.Q. English
 
 ## 🙏 Acknowledgments
 
-[Add acknowledgments here]
+Hana Zwick, Dr. Robert Malkin, Prof. Lulu Wang
 
 ## 📞 Contact
 
-[Add contact information here]
+grishanovf@gmail.com
 
 ---
 
