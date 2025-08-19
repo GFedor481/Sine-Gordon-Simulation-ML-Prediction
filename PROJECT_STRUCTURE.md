@@ -6,7 +6,7 @@ This document provides a detailed breakdown of the project structure and explain
 
 ### Core Project Files
 - **`sine_gordon_project.ipynb`** - Main project notebook containing the complete implementation
-- **`sine_gordon_project copy 2 (1).ipynb`** - Alternative/backup version of the main notebook
+- **`sine_gordon_project copy 2.ipynb`** - Alternative/backup version of the main notebook
 - **`sine_Gordon_localization_prediction (3).pdf`** - Published research paper
 
 ### Data and Models
